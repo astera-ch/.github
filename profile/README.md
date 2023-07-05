@@ -1,4 +1,11 @@
-## Hi there 👋
+## astera.ch
+
+Je suis un passionné de conception web qui apporte du soleil dans vos projets.
+
+Spécialisé en création de site web sur mesure et accessible.
+
+Je suis à votre disposition à l'adresse
+info@astera.ch
 
 <!--
 
