@@ -1,4 +1,4 @@
-## astera.ch
+## astera.ch 🔆
 
 Je suis un passionné de conception web qui apporte du soleil dans vos projets.
 
