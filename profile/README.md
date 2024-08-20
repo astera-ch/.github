@@ -1,11 +1,10 @@
-## astera.ch 🔆
+## Atelier web astera.ch 🔆
 
-Je suis un passionné de conception web qui apporte du soleil dans vos projets.
+Nous sommes des passionnés de conception web et de création graphique qui apportons du soleil dans vos projets.
 
-Spécialisé en création de site web sur mesure et accessible.
-
-Je suis à votre disposition à l'adresse
+A votre disposition à l'adresse
 info@astera.ch
+https://astera.ch
 
 <!--
 
