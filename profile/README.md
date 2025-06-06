@@ -1,19 +1,8 @@
-## Atelier web astera.ch 🔆
+<p align="center"><a href="https://astera.ch" target="_blank"><img src="https://raw.githubusercontent.com/astera-ch/.github/refs/heads/main/images/logo.svg" width="420" alt="astera logo"></a></p>
 
 Nous sommes des passionnés de conception web et de création graphique qui apportons du soleil dans vos projets.
 
 A votre disposition à l'adresse
 info@astera.ch
 
-https://astera.ch
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+N'hésitez pas à visiter <a href="https://astera.ch" target="_blank">notre site</a> 😉
